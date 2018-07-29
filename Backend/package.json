@@ -1,0 +1,31 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habeebahmed/hackathon.git"
+  },
+  "keywords": [
+    "win",
+    "or",
+    "lose"
+  ],
+  "author": "hm15",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habeebahmed/hackathon/issues"
+  },
+  "homepage": "https://github.com/habeebahmed/hackathon#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
+  }
+}
